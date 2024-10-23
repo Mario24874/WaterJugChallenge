@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WaterJugChallenge.UI/1.0.0": {
+        "dependencies": {
+          "WaterJugChallenge.Core": "1.0.0"
+        },
+        "runtime": {
+          "WaterJugChallenge.UI.dll": {}
+        }
+      },
+      "WaterJugChallenge.Core/1.0.0": {
+        "runtime": {
+          "WaterJugChallenge.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WaterJugChallenge.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WaterJugChallenge.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

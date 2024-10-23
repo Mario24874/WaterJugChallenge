@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\ChicksGold\WaterJugChallenge.Core\bin\Debug\net8.0\WaterJugChallenge.Core.deps.json
+C:\Users\Usuario\Desktop\ChicksGold\WaterJugChallenge.Core\bin\Debug\net8.0\WaterJugChallenge.Core.dll
+C:\Users\Usuario\Desktop\ChicksGold\WaterJugChallenge.Core\bin\Debug\net8.0\WaterJugChallenge.Core.pdb
+C:\Users\Usuario\Desktop\ChicksGold\WaterJugChallenge.Core\obj\Debug\net8.0\WaterJugChallenge.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ChicksGold\WaterJugChallenge.Core\obj\Debug\net8.0\WaterJugChallenge.Core.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ChicksGold\WaterJugChallenge.Core\obj\Debug\net8.0\WaterJugChallenge.Core.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ChicksGold\WaterJugChallenge.Core\obj\Debug\net8.0\WaterJugChallenge.Core.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ChicksGold\WaterJugChallenge.Core\obj\Debug\net8.0\WaterJugChallenge.Core.dll
+C:\Users\Usuario\Desktop\ChicksGold\WaterJugChallenge.Core\obj\Debug\net8.0\refint\WaterJugChallenge.Core.dll
+C:\Users\Usuario\Desktop\ChicksGold\WaterJugChallenge.Core\obj\Debug\net8.0\WaterJugChallenge.Core.pdb
+C:\Users\Usuario\Desktop\ChicksGold\WaterJugChallenge.Core\obj\Debug\net8.0\ref\WaterJugChallenge.Core.dll
